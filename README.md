@@ -1,8 +1,6 @@
-# PROYECTO: Motor de búsqueda para plataformas de streaming
+Motor de búsqueda para plataformas de streaming
 
-## CURSO: Programación III
-
----
+## Curso: Programación III seccion 12
 
 ## INTEGRANTES
 
@@ -13,7 +11,6 @@
 |  |  |
 |  |  |
 
----
 
 # 1. OBJETIVO DEL PROYECTO
 
