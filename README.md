@@ -1,8 +1,8 @@
-Motor de búsqueda para plataformas de streaming
+# Motor de búsqueda para plataformas de streaming
 
-## Curso: Programación III seccion 12
+### Curso: Programación III seccion 12
 
-## INTEGRANTES
+### Integrantes:
 
 | Nombre y apellido | Código |
 |---|---|
@@ -12,7 +12,7 @@ Motor de búsqueda para plataformas de streaming
 |  |  |
 
 
-# 1. OBJETIVO DEL PROYECTO
+### 1. OBJETIVO DEL PROYECTO
 
 El proyecto tiene como objetivo desarrollar una plataforma de streaming capaz de administrar y realizar búsquedas eficientes de películas a partir de información almacenada en archivos CSV previamente limpiados.
 
