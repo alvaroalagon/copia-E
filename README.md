@@ -1,16 +1,5 @@
 # Motor de búsqueda para plataformas de streaming
 
-### Curso: Programación III seccion 12
-
-### Integrantes:
-
-| Nombre y apellido | Código |
-|---|---|
-| Alvaro Mallky Alagón Aguilar | 202520221 |
-|  |  |
-|  |  |
-|  |  |
-
 
 ### 1. OBJETIVO DEL PROYECTO
 
